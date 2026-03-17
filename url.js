@@ -8,7 +8,13 @@
 
 
 const urls = [
-	'https://forms.gle/kKc1iLb3edRmVByH6',
-	'https://forms.gle/4Sq55m4GPvjYV5AB6',
-	'https://gitlab.com/hms5232',
+	'https://forms.gle/rcF3VsQ3EAg4WLrAA',
+	'https://forms.gle/KPM3W4qFQz4h7kup7',
+	'https://forms.gle/abH9xepxFEehiaQb7',
+	'https://forms.gle/wHBaNd5JxidRNAaX8',
+	'https://forms.gle/cFh1Ruew16QEbkGq5',
+	'https://forms.gle/bN1SoW7S9J3S4DyJ6',
+	'https://forms.gle/yFDo7Rokihw5Dbkh8',
+	'https://forms.gle/fSTrKzE91jFXjx3u8',
+
 ];
